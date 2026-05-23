@@ -51,31 +51,12 @@
 
 # 📊 GitHub Stats
 
-# 📊 GitHub Stats
-
 <p align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dishantsuthar0101&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <img width="49%" src="https://streak-stats.demolab.com?user=dishantsuthar0101&theme=tokyonight&hide_border=true" />
 
-</p>
-
----
-
-# 📈 Most Used Languages
-
-<p align="center">
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishantsuthar0101&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dishantsuthar0101/dishantsuthar0101/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
